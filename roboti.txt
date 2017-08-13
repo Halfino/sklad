@@ -1,0 +1,4 @@
+TRU_1,8x0,U,U,U,U,R,R,R,L,R,R,R
+TRU_2,2x7,L,L,L,L,L,L,L,L
+TRU_3,8x7,L,L,U,U,U,L,L,L
+TRU_4,8x2,L,L,U,U,U,U

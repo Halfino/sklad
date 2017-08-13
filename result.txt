@@ -1,0 +1,4 @@
+TRU_1(4x4):Collided
+TRU_2(2x4):Collided
+TRU_3(5x2):OK
+TRU_4(8x1):Collided
